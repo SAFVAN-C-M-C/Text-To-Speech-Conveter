@@ -58,3 +58,15 @@ Select{
     appearance: none;
     color: #fff;
 }
+
+.credit{
+    position: fixed;
+    bottom: 0;
+}
+.credit p{
+    color: red;
+}
+span{
+    color: blue;
+    font-weight: bold;
+}
